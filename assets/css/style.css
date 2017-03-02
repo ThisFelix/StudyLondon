@@ -1,0 +1,20 @@
+/* YOUR CUSTOM STYLES */
+html,
+body,
+.view {
+    height: 100%;
+}
+
+.view {
+    background: url("assets/img/london.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.selector-for-some-widget {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
